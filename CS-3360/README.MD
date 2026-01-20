@@ -17,11 +17,13 @@ Môn này từ kì Fall 2025 sẽ có 2 giảng viên dạy:
   - Nhưng thực ra ông rất thoải mái và hiền. Kiểu là: thầy thắc mắc là một chuyện, còn thầy đánh giá thì vẫn khách quan, không vì ý kiến chưa tốt của mình mà trù dập hay làm khó. Vì thế nên điểm số thường khá ổn. Yeah, he is a really good teacher.
 
 - Tuy môn này nằm trong bộ ba môn khó nhất Bách Khoa đối với sinh viên IT (Công nghệ phần mềm, Thuật toán ứng dụng, OOP), đồng thời rất quan trọng, nhưng nếu học thầy Dũng thì thực tế lại không quá khó. Mức độ “thực học” cũng không cao bằng khi học thầy Kumar. Tuy vậy, chắc đến tầm năm ba thì anh em cũng bắt đầu ham muốn đi làm rồi, nên chọn học thầy Dũng cho nhẹ nhàng, đỡ áp lực cũng là một lựa chọn ổn.
+  
+  <p align="center">
+    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image17.jpg" 
+    alt="image17.jpg"
+    width="50%">
+  </p>
 
-
-
-
-
-
+- Về thầy Kumar thì là một cái tên mà tôi nghe rất nhiều lần kể từ khi vào học ngành này, tham khảo: [CS-3323](../CS-3323/README.md).
 
 
