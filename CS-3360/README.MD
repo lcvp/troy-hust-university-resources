@@ -10,7 +10,7 @@ Môn này từ kì Fall 2025 sẽ có 2 giảng viên dạy:
 
 - Sau 5 năm thì tôi gặp lại ổng trong môn OOP, cảm xúc cũng khá đặc biệt. Nếu phải nói thì sau khi học xong môn này, tôi đã hiểu và lí giải được nhiều điều về con người ông.
   
-  - Đầu tiên là về “profile”. Thầy là cựu học sinh Trường THPT chuyên Hà Nội – Amsterdam, lên đại học thì học Bách Khoa. Lý lịch kiểu rất chuẩn chỉnh, dạng người ham học hỏi, hơi nerd. Thường thì giai đoạn cấp 3 và đại học thường định hình tính cách một người cho cả cuộc đời, nên đến giờ tôi vẫn thấy ông làm việc vẫn rất chỉn chu: giảng dạy đàng hoàng, đi đứng, nói chuyện với sinh viên khá thoải mái.
+  - Đầu tiên là về “profile”. Thầy là cựu học sinh Trường THPT chuyên Hà Nội – Amsterdam, lên đại học thì học Bách Khoa. Lý lịch kiểu rất chuẩn chỉnh, dạng người ham học hỏi, hơi nerd. Thường thì giai đoạn cấp 3 và đại học sẽ định hình tính cách một người cho cả cuộc đời, nên đến giờ tôi vẫn thấy ông làm việc vẫn rất chỉn chu: giảng dạy đàng hoàng, đi đứng, nói chuyện với sinh viên khá thoải mái.
   
   - Thứ hai, có lẽ do môi trường trường chuyên khác với trường thường, phần nào nặng học thuật hơn, cộng thêm ông là dân Hà Nội lâu năm ở khu Đống Đa nên tính cách khá thẳng, đôi khi hơi gay gắt. Đặc biệt là lúc chửi và phản biện thì rất “ác”, đúng tinh thần critical thinking, kiểu “Hà Nội không vội được đâu”, nghe cũng khá thú vị.
   
