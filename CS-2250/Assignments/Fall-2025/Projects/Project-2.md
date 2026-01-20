@@ -8,7 +8,15 @@
 **19. Spectral Analysis**  
 If a scientist knows the wavelength of an electromagnetic wave, he or she can determine what type of radiation it is. Write a program that asks for the wavelength of an electromagnetic wave in meters and then displays what that wave is according to the chart below. (For example, a wave with a wavelength of 1E-10 meters would be an X-ray.)
 
-![Spectral Analysis Chart](image_a0095e.png)
+| Spectrum Type | Wavelength Boundary (m) |
+| :--- | :---: |
+| **Radio Waves** | > 1 × 10⁻² |
+| **Microwaves** | 1 × 10⁻² |
+| **Infrared** | 1 × 10⁻³ |
+| **Visible Light** | 7 × 10⁻⁷ |
+| **Ultraviolet** | 4 × 10⁻⁷ |
+| **X Rays** | 1 × 10⁻⁸ |
+| **Gamma Rays** | < 1 × 10⁻¹¹ |
 
 **20. The Speed of Sound**  
 The following table shows the approximate speed of sound in air, water, and steel.
