@@ -25,9 +25,9 @@ Mé, không bàn tới chuyên môn của lão, nghĩ lại cay cú phết, mà 
 
 Nhưng mà cũng thấy “nể”. Kumar ở Mỹ từ hồi hai mấy tuổi tới giờ mà lúc nào cũng tin yêu đất nước ghê, gì về Ấn Độ cũng nói được. Trong khi ở Việt Nam thì phim Việt, đồ Việt bị chê ỏng chê eo, cái gì của Việt cũng đem ra chê; anh V sản xuất được cái xe cũng bị chê, bị kêu tẩy chay; bọn du học sinh đi học về thì thái độ thượng đẳng vloz. Công nhận Ấn nó dạy lịch sử với tuyên truyền tinh thần dân tộc tốt thật :))).
 
-Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn, đúng chất farm tiền, hơi "đào lửa". Đoạn đầu mới đến còn vươn vai hứng khởi, cũng gọi là có tí kỹ kỹ; về sau thì dạy như đấm vào mồm, lúc nào cũng nhanh nhanh chóng chóng cho xong rồi cười cười. Về nhà vẫn phải tự xem lão Ấn Abdul Bari dạy, nghĩ mà cay cú thật sự. Đến chấm điểm thì cũng chấm linh tinh. Assignment cứ trông thấy có chữ là auto 30/30, chả cần biết mày làm cái éo gì. Coi thi thì đợt này bớt gắt, nên mấy con hàng học lại cũng gọi là xem được tí "ma thuật đen", không thì lại gặp lão thêm lần nữa thì khổ.
+Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn, đúng chất farm tiền, hơi "đào lửa". Đoạn đầu mới đến còn vươn vai hứng khởi, cũng gọi là có tí kỹ kỹ; về sau thì dạy như đấm vào mồm, lúc nào cũng nhanh nhanh chóng chóng cho xong rồi cười cười. Về nhà vẫn phải tự xem lão Ấn Abdul Bari dạy, nghĩ mà cay cú thật sự. Đến chấm điểm thì cũng chấm linh tinh. Assignment cứ trông thấy có chữ là auto 30/30, chả cần biết mày làm cái éo gì. Coi thi thì đợt này bớt gắt, nên mấy con hàng học lại cũng gọi là xem được tí "ma thuật đen", không thì lại gặp lão thêm lần nữa thì khổ. Tóm lại thì Kumar như cái …
 
-Tóm lại thì Kumar như cái … được cái môn này cũng nhẹ, ở Troy nó tách DSA ra thành hai môn là DS với A nên còn thở được tí. Không thì với quả giáo viên này mà học DSA một lúc chắc tạch còn nhiều nữa.
+Được cái môn này cũng nhẹ, ở Troy nó tách DSA ra thành hai môn là DS với A nên còn thở được tí. Không thì với quả giáo viên này mà học DSA một lúc chắc tạch còn nhiều nữa.
 
 ---
 
