@@ -27,9 +27,7 @@ Nhưng mà cũng thấy “nể”. Kumar ở Mỹ từ hồi hai mấy tuổi t
 
 Chuyện trên là một chuyện, cái nữa là Kumar dạy rất kiểu Ấn, đúng chất farm tiền, hơi "đào lửa". Đoạn đầu mới đến còn vươn vai hứng khởi, cũng gọi là có tí kỹ kỹ; về sau thì dạy như đấm vào mồm, lúc nào cũng nhanh nhanh chóng chóng cho xong rồi cười cười. Về nhà vẫn phải tự xem lão Ấn Abdul Bari dạy, nghĩ mà cay cú thật sự. Đến chấm điểm thì cũng chấm linh tinh. Assignment cứ trông thấy có chữ là auto 30/30, chả cần biết mày làm cái éo gì. Coi thi thì đợt này bớt gắt, nên mấy con hàng học lại cũng gọi là xem được tí "ma thuật đen", không thì lại gặp lão thêm lần nữa thì khổ.
 
-Tóm lại thì Kumar như cái… được cái môn này cũng nhẹ, ở Troy nó tách DSA ra thành hai môn là DS với A nên còn thở được tí. Không thì với quả giáo viên này mà học DSA một lúc chắc tạch còn nhiều nữa.
-
-
+Tóm lại thì Kumar như cái … được cái môn này cũng nhẹ, ở Troy nó tách DSA ra thành hai môn là DS với A nên còn thở được tí. Không thì với quả giáo viên này mà học DSA một lúc chắc tạch còn nhiều nữa.
 
 ---
 
