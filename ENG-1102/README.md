@@ -11,7 +11,7 @@ Xin chào! Nếu bạn đang đọc cái này có lẽ bạn đã qua được E
 - Tại sao ở trên nói E2 như 1 sự cứu cánh cho E1? Vì E2 được tự đăng kí môn nên sẽ được chọn giảng viên, còn E1 là do cô KA đăng kí nên sẽ phải học theo chỉ định, vì thế dễ rơi vào lựa chọn đen đủi (1), vì thế nên khi đăng kí học E2 phải luôn nhớ đăng kí option 2 hoặc 3 dù có chết không được đăng kí 'nhầm' vào (1)!!! Vào được (2) thì B đổ lên là chuyện khá đơn giản! 💯💯💯
 
 
-- Tỉ lệ được A trong kì Fall 2025:
+- Tỉ lệ được A trong kì Fall 2025 (ENG-1101):
   - KA: 4% (1/25)
   - Hương Nguyễn: 24% (6/25)
   - Huyền Nguyễn: 20% (5/25)
