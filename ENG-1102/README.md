@@ -13,7 +13,7 @@ Xin chào! Nếu bạn đang đọc cái này có lẽ bạn đã qua được E
 
 - Tỉ lệ được A trong kì Fall 2025 (ENG-1101):
   - KA: 4% (1/25)
-  - Hương Nguyễn: 24% (6/25)
+  - Hương Trần: 24% (6/25)
   - Huyền Nguyễn: 20% (5/25)
 
 ## Đầu mối Turnitin
