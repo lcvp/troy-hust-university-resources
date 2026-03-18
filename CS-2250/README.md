@@ -1,3 +1,18 @@
+Xin chào, đây là môn học đầu tiên trong chương trình học CS của Troy thực sự học về lập trình (C++). Môn này có 1 giảng viên dạy:
+
+1. Thầy [Đặng Hữu Tú](https://www.researchgate.net/profile/Huu-Tu-Dang)
+
+---
+
+- Đánh giá Đặng Hữu Tú: S tier. Định nghĩa của Gigachad. Học ~~thầy~~ Ngài Đặng Hữu Tú chỉ cần bỏ ra 1 thành công lực là tỉ lệ trượt môn bằng không. Ngài sẽ tạo điều kiện farm điểm cộng rất nhiều cho sinh viên, mỗi buổi học sẽ có gần chục bài tập, những sinh viên giơ tay lên chữa sẽ được cộng 1 điểm vào điểm **TỔNG KẾT**, tối đa cộng 10 điểm. Trong kì học Fall 2025, Ngài đã cho 80% lớp (49/62) điểm A.
+
+## *Góc Lịch Sử*
+*Lưu ý: Nội dung dưới đây đã lỗi thời do thay đổi giảng viên hoặc một lí do nào đó khác, nhưng được giữ lại một phần nhằm bảo tồn một góc lịch sử của ngành và vì thông tin vẫn có thể sẽ hữu ích trong thời điểm hiện tại (do các giảng viên dưới vẫn đang dạy môn nào đó khác hoặc có thể sẽ dạy tiếp môn này trong tương lai.)*
+
+<details>
+<summary><b>Click để xem review cũ</b></summary>
+<blockquote markdown="1">
+
 **[UPDATE: NỘI DUNG ĐÃ STALE]**
 
 Xin chào, đây là môn học đầu tiên trong chương trình học CS của Troy thực sự học về lập trình (C++). Môn này có 2 giảng viên dạy:
@@ -21,3 +36,6 @@ Xin chào, đây là môn học đầu tiên trong chương trình học CS củ
   > Tại sao tên phụ nữ lại hay được đặt cho những cơn bão lớn?
   > 
   > -> Bão đi qua quét sạch tài sản, nhà cửa, thậm chí là cả TÍNH MẠNG!!
+
+</blockquote>
+</details>
