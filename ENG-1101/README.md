@@ -14,7 +14,7 @@ Server Troy BK sẽ có 3 giảng viên chính dạy ENG-1101:
 
 - Tỉ lệ được A trong kì Fall 2025:
   - KA: 4% (1/25)
-  - Hương Nguyễn: 24% (6/25)
+  - Hương Trần: 24% (6/25)
   - Huyền Nguyễn: 20% (5/25)
 
 ## Đầu mối Turnitin
