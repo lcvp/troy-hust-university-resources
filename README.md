@@ -86,7 +86,7 @@
 | 50  | [MKT-3300]                                                | Principles of Marketing                                    |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
 | 51  | ACT-2291                                                  | Principles of Accounting I                                 |    3    |                                          |                                                                                         |
 | 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     |    3    |           MTH 1112 and IS 2241           |                                                                                         |
-| 53  | MTH-2201                                                  | Calculus and its Applications                              |    3    |         MTH 1112 or 1114 with C          |                                                                                         |
+| 53  | [MTH-2201]                                                | Calculus and its Applications                              |    3    |         MTH 1112 or 1114 with C          |                                                                                         |
 | 54  | [SCI/L-2233]                                              | Physical Science and Lab                                   |    4    |                                          |                                                                                         |
 | 55  | [BIO/L-1100]                                              | Principles of Biology & Lab                                |    4    |                                          |                                                                                         |
 |     | **5 môn Triết**                                           |                                                            |         |              **Thứ tự học**              |                                                                                         |
@@ -179,6 +179,8 @@
 [MKT-3300]: ./MKT-3300/
 
 [QM-2241]: ./QM-2241/
+
+[MTH-2201]: ./MTH-2201/
 
 [SCI/L-2233]: ./SCI-2233/
 
