@@ -27,163 +27,162 @@
   <em>Chụp tại D7, từng là mái nhà chung của viện quốc tế (SIE).</em>
 </p>
 
-| No. | Code                                                      | Course Title                                               | Credits | Prerequisite                             | Tier                                                                                       |
-|:---:| --------------------------------------------------------- | ---------------------------------------------------------- |:-------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
-|     | **General studies**                                       |                                                            |         |                                          |                                                                                            |
-| 1   | [TROY-1101]                                               | The University Experience                                  | 1       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 2   | [ENG-1101]                                                | Composition And Modern English I                           | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 3   | [ART-1133]                                                | Visual Arts                                                | 2       |                                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 4   | [HIS-1123]                                                | World History from 1500                                    | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 5   | [HIS-1122]                                                | World History to 1500                                      | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 6   | [MUS-1131]                                                | Music Appreciation                                         | 2       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 7   | [COM-2241]                                                | Fundamentals of Speech                                     | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 8   | [ENG-1102]                                                | Composition and Modern English II                          | 3       | ENG 1101 with C                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 9   | [ENG-2205]                                                | World Literature before 1660                               | 3       | ENG 1102 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 10  | [ECO-2251]                                                | Macroeconomics                                             | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 11  | [ECO-2252]                                                | Microeconomics                                             | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 12  | [CHM/L-1142]                                              | General Chemistry and Lab I                                | 4       | MTH 1112                                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 13  | [PHY/L-2252]                                              | General Physics and Lab I                                  | 4       | MTH 1114                                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-|     | **Required Major Courses**                                |                                                            |         |                                          |                                                                                            |
-| 14  | [MTH-1125]                                                | Calculus I                                                 | 4       | MTH 1114 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 15  | [MTH-1126]                                                | Calculus II                                                | 4       | MTH 1125                                 | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 16  | [CS-2220]                                                 | Numerical Methods in Computing                             | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 17  | [CS-2250]                                                 | Computer Science I                                         | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 18  | [CS-2255]                                                 | Computer Science II                                        | 3       | CS 2250                                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 19  | [CS-3310]                                                 | Foundations of Computer Science                            | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 20  | [CS-3323]                                                 | Data Structures                                            | 3       | CS 2255 and MTH 1125                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 21  | [CS-3329]                                                 | Analysis of Algorithms                                     | 3       | CS 2255                                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 22  | [CS-3332]                                                 | Software Engineering I                                     | 3       | CS 2255                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 23  | [CS-3360]                                                 | Concepts of Object-Oriented Programming                    | 3       | CS 2255                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 24  | [CS-3365]                                                 | Introduction to Computer Organization and Architecture     | 3       | CS 3310                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 25  | [CS-3370]                                                 | Nature of Programming Languages                            | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 26  | [CS-3372]                                                 | Formal Languages and the Theory of Computation             | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 27  | [CS-4420]                                                 | Introduction to Database Systems                           | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 28  | [CS-4445]                                                 | Data Communication and Networking                          | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 29  | [CS-4448]                                                 | Operating Systems                                          | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 30  | [STAT-2210]                                               | Applied Statistics                                         | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 31  | [MTH-2215]                                                | Applied Discrete Mathematics                               | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-|     | **Major Electives (Choose two of the following courses)** | **# Thực chất là không được chọn mà offer gì học cái đấy** |         |                                          |                                                                                            |
-| 32  | CS-4447                                                   | Systems Analysis and Design                                | 3       | CS 3323                                  |                                                                                            |
-| 33  | [CS-4451]                                                 | Computer Security and Reliability                          | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 34  | CS-3320                                                   | Business System Programming                                | 3       | CS 2255                                  |                                                                                            |
-| 35  | CS-3325                                                   | Operation Research                                         | 3       | MTH 1125                                 |                                                                                            |
-| 36  | [CS-3331]                                                 | Fundamentals of Artificial Intelligence                    | 3       | CS 3323                                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 37  | CS-4443                                                   | Web-Based Software Development                             | 3       | CS 3323                                  |                                                                                            |
-| 38  | CS-3361                                                   | Concepts of Object Prog II                                 | 3       | CS 3360                                  |                                                                                            |
-| 39  | CS-4401                                                   | Advanced Artificial Intelligence                           | 3       | CS 3331                                  |                                                                                            |
-| 40  | [CS-4410]                                                 | Introduction to Machine Learning                           | 3       | CS 3323 and MTH 2210                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 41  | CS-4461                                                   | Software Engineering II                                    | 3       | CS 3332                                  |                                                                                            |
-| 42  | CS-4462                                                   | Special Topics in Object Oriented                          | 3       | CS 3361                                  |                                                                                            |
-| 43  | CS-4495                                                   | Special Topics in Computer Science                         | 3       | Senior Standing or consent of instructor |                                                                                            |
-|     | **Free Electives (19 credits at least)**                  | **# Có thể học khoảng từ 6 đến 7 môn tùy phương án**       |         |                                          |                                                                                            |
-| 44  | [MTH-1112]                                                | Pre-Calculus Algebra                                       | 3       |                                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
-| 45  | [MTH-1114]                                                | Pre-Algebra Trigonometry                                   | 3       | MTH 1112 with C                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 46  | [MGT-3300]                                                | Principles of Management                                   | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 47  | [IS-2241]                                                 | Computer Concepts & Applications                           | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 48  | [ENG-2206]                                                | World Literature after 1660                                | 3       | ENG 1102 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 49  | [LAW-2221]                                                | Legal Environment                                          | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 50  | [MKT-3300]                                                | Principles of Marketing                                    | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 51  | ACT-2291                                                  | Principles of Accounting I                                 | 3       |                                          |                                                                                            |
-| 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     | 3       | MTH 1112 and IS 2241                     |                                                                                            |
-| 53  | MTH-2201                                                  | Calculus and its Applications                              | 3       | MTH 1112 or 1114 with C                  |                                                                                            |
-| 54  | [SCI/L-2233]                                              | Physical Science and Lab                                   | 4       |                                          |                                                                                            |
-| 55  | [BIO/L-1100]                                              | Principles of Biology & Lab                                | 4       |                                          |                                                                                            |
-|     | **5 môn Triết**                                           |                                                            |         | **Thứ tự học**                           |                                                                                            |
-| 56  | [SSH1111Q]                                                | Triết học Mác - Lênin                                      | 3       | 1                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 57  | [SSH1121Q]                                                | Kinh tế chính trị Mác - Lênin                              | 2       | 2                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 58  | [SSH1131Q]                                                | Chủ nghĩa xã hội khoa học                                  | 2       | 3                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 59  | [SSH1141Q]                                                | Lịch sử Đảng Cộng sản Việt Nam                             | 2       | 4                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 60  | [SSH1151Q]                                                | Tư tưởng Hồ Chí Minh                                       | 2       | 5                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
+<!-- BEGIN COURSES -->
+| No. | Code                                                      | Course Title                                                | Credits | Prerequisite                             | Tier                                                                                     |
+|:---:| --------------------------------------------------------- | ---------------------------------------------------------- |:-------:|:--------------------------------------:|:--------------------------------------------------------------------------------------:|
+|     | **General studies**                                       |                                                            |         |                                          |                                                                                         |
+| 1   | [TROY-1101]                                               | The University Experience                                  |    1    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 2   | [ENG-1101]                                                | Composition And Modern English I                           |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 3   | [ART-1133]                                                | Visual Arts                                                |    2    |                                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 4   | [HIS-1123]                                                | World History from 1500                                    |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 5   | [HIS-1122]                                                | World History to 1500                                      |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 6   | [MUS-1131]                                                | Music Appreciation                                         |    2    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 7   | [COM-2241]                                                | Fundamentals of Speech                                     |    3    |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 8   | [ENG-1102]                                                | Composition and Modern English II                          |    3    |             ENG 1101 with C              | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 9   | [ENG-2205]                                                | World Literature before 1660                               |    3    |             ENG 1102 with C              | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 10  | [ECO-2251]                                                | Macroeconomics                                             |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 11  | [ECO-2252]                                                | Microeconomics                                             |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 12  | [CHM/L-1142]                                              | General Chemistry and Lab I                                |    4    |                 MTH 1112                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 13  | [PHY/L-2252]                                              | General Physics and Lab I                                  |    4    |                 MTH 1114                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+|     | **Required Major Courses**                                |                                                            |         |                                          |                                                                                         |
+| 14  | [MTH-1125]                                                | Calculus I                                                 |    4    |             MTH 1114 with C              | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 15  | [MTH-1126]                                                | Calculus II                                                |    4    |                 MTH 1125                 | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 16  | [CS-2220]                                                 | Numerical Methods in Computing                             |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 17  | [CS-2250]                                                 | Computer Science I                                         |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 18  | [CS-2255]                                                 | Computer Science II                                        |    3    |                 CS 2250                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 19  | [CS-3310]                                                 | Foundations of Computer Science                            |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 20  | [CS-3323]                                                 | Data Structures                                            |    3    |           CS 2255 and MTH 1125           | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 21  | [CS-3329]                                                 | Analysis of Algorithms                                     |    3    |                 CS 2255                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 22  | [CS-3332]                                                 | Software Engineering I                                     |    3    |                 CS 2255                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 23  | [CS-3360]                                                 | Concepts of Object-Oriented Programming                    |    3    |                 CS 2255                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 24  | [CS-3365]                                                 | Introduction to Computer Organization and Architecture     |    3    |                 CS 3310                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 25  | [CS-3370]                                                 | Nature of Programming Languages                            |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 26  | [CS-3372]                                                 | Formal Languages and the Theory of Computation             |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 27  | [CS-4420]                                                 | Introduction to Database Systems                           |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 28  | [CS-4445]                                                 | Data Communication and Networking                          |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 29  | [CS-4448]                                                 | Operating Systems                                          |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 30  | [STAT-2210]                                               | Applied Statistics                                         |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 31  | [MTH-2215]                                                | Applied Discrete Mathematics                               |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+|     | **Major Electives (Choose two of the following courses)** | **# Thực chất là không được chọn mà offer gì học cái đấy** |         |                                          |                                                                                         |
+| 32  | CS-4447                                                   | Systems Analysis and Design                                |    3    |                 CS 3323                  |                                                                                         |
+| 33  | [CS-4451]                                                 | Computer Security and Reliability                          |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 34  | CS-3320                                                   | Business System Programming                                |    3    |                 CS 2255                  |                                                                                         |
+| 35  | CS-3325                                                   | Operation Research                                         |    3    |                 MTH 1125                 |                                                                                         |
+| 36  | [CS-3331]                                                 | Fundamentals of Artificial Intelligence                    |    3    |                 CS 3323                  | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 37  | CS-4443                                                   | Web-Based Software Development                             |    3    |                 CS 3323                  |                                                                                         |
+| 38  | CS-3361                                                   | Concepts of Object Prog II                                 |    3    |                 CS 3360                  |                                                                                         |
+| 39  | CS-4401                                                   | Advanced Artificial Intelligence                           |    3    |                 CS 3331                  |                                                                                         |
+| 40  | [CS-4410]                                                 | Introduction to Machine Learning                           |    3    |           CS 3323 and MTH 2210           | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 41  | CS-4461                                                   | Software Engineering II                                    |    3    |                 CS 3332                  |                                                                                         |
+| 42  | CS-4462                                                   | Special Topics in Object Oriented                          |    3    |                 CS 3361                  |                                                                                         |
+| 43  | CS-4495                                                   | Special Topics in Computer Science                         |    3    | Senior Standing or consent of instructor |                                                                                         |
+|     | **Free Electives (19 credits at least)**                  | **# Có thể học khoảng từ 6 đến 7 môn tùy phương án**       |         |                                          |                                                                                         |
+| 44  | [MTH-1112]                                                | Pre-Calculus Algebra                                       |    3    |                                          | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)|
+| 45  | [MTH-1114]                                                | Pre-Algebra Trigonometry                                   |    3    |             MTH 1112 with C              | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 46  | [MGT-3300]                                                | Principles of Management                                   |    3    |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 47  | [IS-2241]                                                 | Computer Concepts & Applications                           |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 48  | [ENG-2206]                                                | World Literature after 1660                                |    3    |             ENG 1102 with C              | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 49  | [LAW-2221]                                                | Legal Environment                                          |    3    |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)|
+| 50  | [MKT-3300]                                                | Principles of Marketing                                    |    3    |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 51  | ACT-2291                                                  | Principles of Accounting I                                 |    3    |                                          |                                                                                         |
+| 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     |    3    |           MTH 1112 and IS 2241           |                                                                                         |
+| 53  | MTH-2201                                                  | Calculus and its Applications                              |    3    |         MTH 1112 or 1114 with C          |                                                                                         |
+| 54  | [SCI/L-2233]                                              | Physical Science and Lab                                   |    4    |                                          |                                                                                         |
+| 55  | [BIO/L-1100]                                              | Principles of Biology & Lab                                |    4    |                                          |                                                                                         |
+|     | **5 môn Triết**                                           |                                                            |         |              **Thứ tự học**              |                                                                                         |
+| 56  | [SSH1111Q]                                                | Triết học Mác - Lênin                                      |    3    |                    1                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 57  | [SSH1121Q]                                                | Kinh tế chính trị Mác - Lênin                              |    2    |                    2                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 58  | [SSH1131Q]                                                | Chủ nghĩa xã hội khoa học                                  |    2    |                    3                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 59  | [SSH1141Q]                                                | Lịch sử Đảng Cộng sản Việt Nam                             |    2    |                    4                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
+| 60  | [SSH1151Q]                                                | Tư tưởng Hồ Chí Minh                                       |    2    |                    5                     | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)|
 
-[INTRODUCTION]: ./introduction.md/
+[TROY-1101]: ./TROY-1101/
+
+[ENG-1101]: ./ENG-1101/
+
+[ART-1133]: ./ART-1133/
+
+[HIS-1123]: ./HIS-1123/
+
+[HIS-1122]: ./HIS-1122/
+
+[MUS-1131]: ./MUS-1131/
+
+[COM-2241]: ./COM-2241/
 
 [ENG-1102]: ./ENG-1102/
 
-[MTH-1112]: ./MTH-1112/
+[ENG-2205]: ./ENG-2205/
 
-[MTH-1114]: ./MTH-1114/
+[ECO-2251]: ./ECO-2251/
+
+[ECO-2252]: ./ECO-2252/
+
+[CHM/L-1142]: ./CHM-1142/
+
+[PHY/L-2252]: ./PHY-2252/
 
 [MTH-1125]: ./MTH-1125/
 
 [MTH-1126]: ./MTH-1126/
 
-[HIS-1122]: ./HIS-1122/
-
-[CS-3365]: ./CS-3365/
-
-[CS-4445]: ./CS-4445/
-
-[CS-4448]: ./CS-4448/
-
-[TROY-1101]: ./TROY-1101/
-
-[MTH-2215]: ./MTH-2215/
-
-[STAT-2210]: ./STAT-2210/
-
-[COM-2241]: ./COM-2241/
-
-[CHM/L-1142]: ./CHM-1142/
-
-[CS-2255]: ./CS-2255/
-
-[ART-1133]: ./ART-1133/
-
-[ENG-1101]: ./ENG-1101/
-
-[MUS-1131]: ./MUS-1131/
-
-[ECO-2251]: ./ECO-2251/
-
-[CS-3310]: ./CS-3310/
+[CS-2220]: ./CS-2220/
 
 [CS-2250]: ./CS-2250/
 
-[CS-2220]: ./CS-2220/
+[CS-2255]: ./CS-2255/
 
-[HIS-1123]: ./HIS-1123/
-
-[CS-4420]: ./CS-4420/
-
-[CS-3360]: ./CS-3360/
-
-[PHY/L-2252]: ./PHY-2252/
-
-[MGT-3300]: ./MGT-3300/
-
-[IS-2241]: ./IS-2241/
-
-[CS-3332]: ./CS-3332/
-
-[CS-3370]: ./CS-3370/
-
-[CS-3372]: ./CS-3372/
+[CS-3310]: ./CS-3310/
 
 [CS-3323]: ./CS-3323/
 
 [CS-3329]: ./CS-3329/
 
+[CS-3332]: ./CS-3332/
+
+[CS-3360]: ./CS-3360/
+
+[CS-3365]: ./CS-3365/
+
+[CS-3370]: ./CS-3370/
+
+[CS-3372]: ./CS-3372/
+
+[CS-4420]: ./CS-4420/
+
+[CS-4445]: ./CS-4445/
+
+[CS-4448]: ./CS-4448/
+
+[STAT-2210]: ./STAT-2210/
+
+[MTH-2215]: ./MTH-2215/
+
 [CS-4451]: ./CS-4451/
 
 [CS-3331]: ./CS-3331/
 
-[ENG-2205]: ./ENG-2205/
-
 [CS-4410]: ./CS-4410/
 
-[QM-2241]: ./QM-2241/
+[MTH-1112]: ./MTH-1112/
 
-[MKT-3300]: ./MKT-3300/
+[MTH-1114]: ./MTH-1114/
+
+[MGT-3300]: ./MGT-3300/
+
+[IS-2241]: ./IS-2241/
 
 [ENG-2206]: ./ENG-2206/
 
-[ECO-2252]: ./ECO-2252/
-
 [LAW-2221]: ./LAW-2221/
 
-[BIO/L-1100]: ./BIO-1100/
+[MKT-3300]: ./MKT-3300/
+
+[QM-2241]: ./QM-2241/
 
 [SCI/L-2233]: ./SCI-2233/
+
+[BIO/L-1100]: ./BIO-1100/
 
 [SSH1111Q]: ./Lý%20luận%20chính%20trị/
 
@@ -194,6 +193,10 @@
 [SSH1141Q]: ./Lý%20luận%20chính%20trị/
 
 [SSH1151Q]: ./Lý%20luận%20chính%20trị/
+
+<!-- END COURSES -->
+
+[INTRODUCTION]: ./introduction.md/
 
 [NOTES]: ./notes.md/
 
