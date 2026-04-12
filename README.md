@@ -378,7 +378,7 @@
       <td align="left"><a href="./CS-4410/"><kbd>CS&#8209;4410</kbd></a></td>
       <td align="left">Introduction to Machine Learning</td>
       <td align="center">3</td>
-      <td align="center">CS 3323 and MTH 2210</td>
+      <td align="center">CS 3323 and STAT 2210</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
