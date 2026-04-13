@@ -233,7 +233,7 @@
     <tr>
       <td align="center"><b>23</b></td>
       <td align="left"><a href="./CS-3360/"><kbd>CS&#8209;3360</kbd></a></td>
-      <td align="left">Concepts of Object-Oriented Programming</td>
+      <td align="left">Concepts of Object Oriented Programming I</td>
       <td align="center">3</td>
       <td align="center">CS 2255</td>
       <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
@@ -289,7 +289,7 @@
     <tr>
       <td align="center"><b>30</b></td>
       <td align="left"><a href="./STAT-2210/"><kbd>STAT&#8209;2210</kbd></a></td>
-      <td align="left">Applied Statistics</td>
+      <td align="left">Introductory Statistics</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
@@ -312,7 +312,7 @@
     <tr>
       <td align="center"><b>32</b></td>
       <td align="left"><kbd>CS&#8209;4447</kbd></td>
-      <td align="left">Systems Analysis and Design</td>
+      <td align="left"><s>Systems Analysis and Design</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
       <td align="center"></td>
@@ -320,7 +320,7 @@
     <tr>
       <td align="center"><b>33</b></td>
       <td align="left"><a href="./CS-4451/"><kbd>CS&#8209;4451</kbd></a></td>
-      <td align="left">Computer Security and Reliability</td>
+      <td align="left">Computer Security</td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
@@ -328,7 +328,7 @@
     <tr>
       <td align="center"><b>34</b></td>
       <td align="left"><kbd>CS&#8209;3320</kbd></td>
-      <td align="left">Business System Programming</td>
+      <td align="left"><s>Business System Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 2255</td>
       <td align="center"></td>
@@ -336,7 +336,7 @@
     <tr>
       <td align="center"><b>35</b></td>
       <td align="left"><kbd>CS&#8209;3325</kbd></td>
-      <td align="left">Operation Research</td>
+      <td align="left"><s>Operations Research</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1125</td>
       <td align="center"></td>
@@ -352,7 +352,7 @@
     <tr>
       <td align="center"><b>37</b></td>
       <td align="left"><kbd>CS&#8209;4443</kbd></td>
-      <td align="left">Web-Based Software Development</td>
+      <td align="left"><s>Web Application Development</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
       <td align="center"></td>
@@ -360,7 +360,7 @@
     <tr>
       <td align="center"><b>38</b></td>
       <td align="left"><kbd>CS&#8209;3361</kbd></td>
-      <td align="left">Concepts of Object Prog II</td>
+      <td align="left"><s>Concepts of Object-Oriented Programming II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3360</td>
       <td align="center"></td>
@@ -368,7 +368,7 @@
     <tr>
       <td align="center"><b>39</b></td>
       <td align="left"><kbd>CS&#8209;4401</kbd></td>
-      <td align="left">Advanced Artificial Intelligence</td>
+      <td align="left"><s>Advanced Artificial Intelligence</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3331</td>
       <td align="center"></td>
@@ -378,13 +378,13 @@
       <td align="left"><a href="./CS-4410/"><kbd>CS&#8209;4410</kbd></a></td>
       <td align="left">Introduction to Machine Learning</td>
       <td align="center">3</td>
-      <td align="center">CS 3323 and MTH 2210</td>
+      <td align="center">CS 3323 and STAT 2210</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
       <td align="center"><b>41</b></td>
       <td align="left"><kbd>CS&#8209;4461</kbd></td>
-      <td align="left">Software Engineering II</td>
+      <td align="left"><s>Software Engineering II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3332</td>
       <td align="center"></td>
@@ -392,7 +392,7 @@
     <tr>
       <td align="center"><b>42</b></td>
       <td align="left"><kbd>CS&#8209;4462</kbd></td>
-      <td align="left">Special Topics in Object Oriented</td>
+      <td align="left"><s>Special Topics in Object-Oriented Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3361</td>
       <td align="center"></td>
@@ -400,7 +400,7 @@
     <tr>
       <td align="center"><b>43</b></td>
       <td align="left"><kbd>CS&#8209;4495</kbd></td>
-      <td align="left">Special Topics in Computer Science</td>
+      <td align="left"><s>Special Topics in Computer Science</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">Senior Standing or consent of instructor</td>
       <td align="center"></td>
@@ -423,7 +423,7 @@
     <tr>
       <td align="center"><b>45</b></td>
       <td align="left"><a href="./MTH-1114/"><kbd>MTH&#8209;1114</kbd></a></td>
-      <td align="left">Pre-Algebra Trigonometry</td>
+      <td align="left">Pre-Calculus Trigonometry</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 with C</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
@@ -439,7 +439,7 @@
     <tr>
       <td align="center"><b>47</b></td>
       <td align="left"><a href="./IS-2241/"><kbd>IS&#8209;2241</kbd></a></td>
-      <td align="left">Computer Concepts & Applications</td>
+      <td align="left">Computer Concepts and Applications</td>
       <td align="center">3</td>
       <td align="center"></td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
@@ -455,7 +455,7 @@
     <tr>
       <td align="center"><b>49</b></td>
       <td align="left"><a href="./LAW-2221/"><kbd>LAW&#8209;2221</kbd></a></td>
-      <td align="left">Legal Environment</td>
+      <td align="left">Legal Environment of Business</td>
       <td align="center">3</td>
       <td align="center"></td>
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
@@ -479,7 +479,7 @@
     <tr>
       <td align="center"><b>52</b></td>
       <td align="left"><a href="./QM-2241/"><kbd>QM&#8209;2241</kbd></a></td>
-      <td align="left">Business Statistics and Data Analytics</td>
+      <td align="left">Business Statistics</td>
       <td align="center">3</td>
       <td align="center">MTH 1112 and IS 2241</td>
       <td align="center"></td>
