@@ -309,10 +309,10 @@
       <td align="center"></td>
       <td></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>32</b></td>
-      <td align="left"><kbd>CS&#8209;4447</kbd></td>
-      <td align="left">Systems Analysis and Design <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4447</kbd></s></td>
+      <td align="left"><s>Systems Analysis and Design</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
       <td align="center"></td>
@@ -325,18 +325,18 @@
       <td align="center">CS 3323</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>34</b></td>
-      <td align="left"><kbd>CS&#8209;3320</kbd></td>
-      <td align="left">Business System Programming <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;3320</kbd></s></td>
+      <td align="left"><s>Business System Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 2255</td>
       <td align="center"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>35</b></td>
-      <td align="left"><kbd>CS&#8209;3325</kbd></td>
-      <td align="left">Operations Research <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;3325</kbd></s></td>
+      <td align="left"><s>Operations Research</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1125</td>
       <td align="center"></td>
@@ -349,26 +349,26 @@
       <td align="center">CS 3323</td>
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>37</b></td>
-      <td align="left"><kbd>CS&#8209;4443</kbd></td>
-      <td align="left">Web Application Development <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4443</kbd></s></td>
+      <td align="left"><s>Web Application Development</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
       <td align="center"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>38</b></td>
-      <td align="left"><kbd>CS&#8209;3361</kbd></td>
-      <td align="left">Concepts of Object-Oriented Programming II <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;3361</kbd></s></td>
+      <td align="left"><s>Concepts of Object-Oriented Programming II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3360</td>
       <td align="center"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>39</b></td>
-      <td align="left"><kbd>CS&#8209;4401</kbd></td>
-      <td align="left">Advanced Artificial Intelligence <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4401</kbd></s></td>
+      <td align="left"><s>Advanced Artificial Intelligence</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3331</td>
       <td align="center"></td>
@@ -381,26 +381,26 @@
       <td align="center">CS 3323 and STAT 2210</td>
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>41</b></td>
-      <td align="left"><kbd>CS&#8209;4461</kbd></td>
-      <td align="left">Software Engineering II <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4461</kbd></s></td>
+      <td align="left"><s>Software Engineering II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3332</td>
       <td align="center"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>42</b></td>
-      <td align="left"><kbd>CS&#8209;4462</kbd></td>
-      <td align="left">Special Topics in Object-Oriented Programming <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4462</kbd></s></td>
+      <td align="left"><s>Special Topics in Object-Oriented Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3361</td>
       <td align="center"></td>
     </tr>
-    <tr style="opacity: 0.5;">
+    <tr>
       <td align="center"><b>43</b></td>
-      <td align="left"><kbd>CS&#8209;4495</kbd></td>
-      <td align="left">Special Topics in Computer Science <span style="color: #888; font-size: 0.85em;"><i>(May not be offered)</i></span></td>
+      <td align="left"><s><kbd>CS&#8209;4495</kbd></s></td>
+      <td align="left"><s>Special Topics in Computer Science</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">Senior Standing or consent of instructor</td>
       <td align="center"></td>
