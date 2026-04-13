@@ -311,7 +311,7 @@
     </tr>
     <tr>
       <td align="center"><b>32</b></td>
-      <td align="left"><s><kbd>CS&#8209;4447</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4447</kbd></td>
       <td align="left"><s>Systems Analysis and Design</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
@@ -327,7 +327,7 @@
     </tr>
     <tr>
       <td align="center"><b>34</b></td>
-      <td align="left"><s><kbd>CS&#8209;3320</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;3320</kbd></td>
       <td align="left"><s>Business System Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 2255</td>
@@ -335,7 +335,7 @@
     </tr>
     <tr>
       <td align="center"><b>35</b></td>
-      <td align="left"><s><kbd>CS&#8209;3325</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;3325</kbd></td>
       <td align="left"><s>Operations Research</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">MTH 1125</td>
@@ -351,7 +351,7 @@
     </tr>
     <tr>
       <td align="center"><b>37</b></td>
-      <td align="left"><s><kbd>CS&#8209;4443</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4443</kbd></td>
       <td align="left"><s>Web Application Development</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3323</td>
@@ -359,7 +359,7 @@
     </tr>
     <tr>
       <td align="center"><b>38</b></td>
-      <td align="left"><s><kbd>CS&#8209;3361</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;3361</kbd></td>
       <td align="left"><s>Concepts of Object-Oriented Programming II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3360</td>
@@ -367,7 +367,7 @@
     </tr>
     <tr>
       <td align="center"><b>39</b></td>
-      <td align="left"><s><kbd>CS&#8209;4401</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4401</kbd></td>
       <td align="left"><s>Advanced Artificial Intelligence</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3331</td>
@@ -383,7 +383,7 @@
     </tr>
     <tr>
       <td align="center"><b>41</b></td>
-      <td align="left"><s><kbd>CS&#8209;4461</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4461</kbd></td>
       <td align="left"><s>Software Engineering II</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3332</td>
@@ -391,7 +391,7 @@
     </tr>
     <tr>
       <td align="center"><b>42</b></td>
-      <td align="left"><s><kbd>CS&#8209;4462</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4462</kbd></td>
       <td align="left"><s>Special Topics in Object-Oriented Programming</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">CS 3361</td>
@@ -399,7 +399,7 @@
     </tr>
     <tr>
       <td align="center"><b>43</b></td>
-      <td align="left"><s><kbd>CS&#8209;4495</kbd></s></td>
+      <td align="left"><kbd>CS&#8209;4495</kbd></td>
       <td align="left"><s>Special Topics in Computer Science</s> <br><i>(May not be offered)</i></td>
       <td align="center">3</td>
       <td align="center">Senior Standing or consent of instructor</td>
