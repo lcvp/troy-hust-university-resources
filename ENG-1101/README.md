@@ -1,24 +1,24 @@
-Server Troy BK sẽ có 3 giảng viên chính dạy ENG-1101:
+# ENG-1101 - Composition And Modern English I
 
-1. Cô KA (She-Who-Must-Not-Be-Named) ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)
+>"The pen is mightier than the sword."  
+— **Edward Bulwer-Lytton**, *Richelieu* (1839)
 
-2. Cô [Trần Thị Lan Hương](https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/) ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
+**ENG-1101** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
-3. Cô [Nguyễn Thị Thu Huyền](https://www.is.vnu.edu.vn/ths-nguyen-thi-thu-huyen/) ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
-
----
-
-- Đến với môn đầu tiên trong series 4 môn ENG, thật may mắn nếu người dạy của bạn không phải cô KA, còn nếu đã lỡ rồi thì... Well, hãy cố gắng và chúng ta sẽ gặp lại trong guide của ENG-1102 nhé!! 🍀🍀🍀 
-
-- Còn nếu bạn học cô Lan Hương thì xin chúc mừng, bạn sắp bước vào 1 chuỗi 2 con A trong 2 môn ENG đầu, 2 môn ENG sau thì đến thời điểm tôi viết cái này chưa đổi người dạy nên không thể kết luận.
-
-- Tỉ lệ được A trong kì Fall 2025:
-  - KA: 4% (1/25)
-  - Hương Trần: 24% (6/25)
-  - Huyền Nguyễn: 20% (5/25)
-
-## Đầu mối Turnitin
-
+## Đánh giá
+### Đầu mối Turnitin
 - Nơi mua acc Turnitin - Zalo (để share chung cho nhiều đứa, vô hạn lượt check):  0888630224
+- Check bài lẻ (acc ở đây thì đắt hơn nhưng check lẻ thì rẻ hơn): [Facebook][facebook-link]
 
-- Check bài lẻ (acc ở đây thì đắt hơn nhưng check lẻ thì rẻ hơn): [Facebook](https://www.facebook.com/taikhoanton)
+## Lịch sử giảng dạy
+- [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] ![suck-badge]: `Fall-2024`, `Fall-2025`
+- [ThS. Trần Thị Lan Hương][tran-thi-lan-huong] ![peak-badge]: `Fall-2024`, `Fall-2025`
+- [ThS. Nguyễn Thị Thu Huyền][nguyen-thi-thu-huyen] ![peak-badge]: `Fall-2025`
+
+
+[nguyen-kieu-anh]: ../Faculty/Nguyen-Kieu-Anh.md
+[tran-thi-lan-huong]: ../Faculty/Tran-Thi-Lan-Huong.md
+[nguyen-thi-thu-huyen]: ../Faculty/Nguyen-Thi-Thu-Huyen.md
+[suck-badge]: https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628
+[peak-badge]: https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50
+[facebook-link]: https://www.facebook.com/taikhoanton
