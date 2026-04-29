@@ -1,13 +1,21 @@
-[UPDATE: MỘT PHẦN NỘI DUNG ĐÃ STALE]
+# IS-2241 - Computer Concepts and Applications
 
-Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, pha tí Tin học đại cương (no code), có hai người dạy vì môn này nhiều lớp do dạy cho cả BA nữa, mà vì dạy cho cả BA nên mới no code, người thứ nhất thì chắc chắn lần nào cũng dạy môn này rồi, nhưng người thứ hai thì có thể sẽ thay đổi tùy kì.
+>"Have you tried turning it off and on again?"  
+— **Roy**, *The IT Crowd*
 
-1. [TS. Nguyễn Nhất Hải - SoICT](https://soict.hust.edu.vn/ts-nguyen-nhat-hai.html) ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)
+**IS-2241** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
-2. [TS. Bùi Thị Mai Anh - SoICT](https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html) ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)
+## Đánh giá
+Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, pha tí Tin học đại cương (no code), có ba người dạy vì môn này nhiều lớp do dạy cho cả BA nữa, mà vì dạy cho cả BA nên mới no code.
 
----
+## Lịch sử giảng dạy
+- [TS. Nguyễn Trung Dũng][nguyen-trung-dung]: `Fall-2025`
+- [TS. Nguyễn Nhất Hải][nguyen-nhat-hai] ![fair-badge]: `Fall-2023`, `Fall-2024`
+- [TS. Bùi Thị Mai Anh][bui-thi-mai-anh] ![suck-badge]: `Fall-2024`
 
-- Đầu tiên thì về số hai, mặc dù cảnh báo trước một [hiểm họa](../CS-2250/README.md) trong tương lai ở đây chưa có ý nghĩa gì mấy nhưng là **cần thiết** và **tối quan trọng**. NHỚ ĐỌC KĨ!!!
 
-- Còn lại thì thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì dễ, phần nhiều là nghe kể chuyện, giống CS-3310 nhất, học vui vẻ nhé!
+[nguyen-trung-dung]: ../Faculty/Nguyen-Trung-Dung.md
+[nguyen-nhat-hai]: ../Faculty/Nguyen-Nhat-Hai.md
+[bui-thi-mai-anh]: ../Faculty/Bui-Thi-Mai-Anh.md
+[fair-badge]: https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107
+[suck-badge]: https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628

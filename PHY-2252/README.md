@@ -1,13 +1,17 @@
-Môn này là môn Vật lý đại cương 1 đó, nhưng mà dễ hơn 😋. Người dạy thì là [PGS.TS. Nguyễn Hoàng Thoan](https://sep.hust.edu.vn/can-bo/pgs-ts-nguyen-hoang-thoan.html).
+# PHY-2252 - General Physics and Lab I
 
----
+>"Sir Isaac Newton is the deadliest son of a bitch in space!"  
+— **Gunnery Chief**, *Mass Effect 2*
 
-- Cô dạy hay, nhiệt tình, bản chất môn học cũng hay, nói chung là đáng để học. Môn **hơi dễ** so với kì vọng của tôi về một môn mang **chất BK** mạnh như vậy.
-  
-  <p align="center">
-    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image7.jpg" alt="image7.jpg">
-    <br>
-    <em>Cảnh lớp học :)))</em>
-  </p>
+**PHY-2252** là một môn học 4 tín chỉ với điều kiện tiên quyết là [MTH-1114][mth-1114].
 
-- Lớp thì thường ngày là chữa bài tập vui vẻ thôi hehe. 😘😘
+## Đánh giá
+Môn này là môn Vật lý đại cương 1 đó, nhưng mà dễ hơn 😋.
+
+## Lịch sử giảng dạy
+- [PGS. TS. Nguyễn Hoàng Thoan][nguyen-hoang-thoan]: `Summer-2024`, `Spring-2025`
+
+
+[nguyen-hoang-thoan]: ../Faculty/Nguyen-Hoang-Thoan.md
+[mth-1114]: ../MTH-1114/
+[contributing]: ../CONTRIBUTING.md
