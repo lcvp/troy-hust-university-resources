@@ -47,4 +47,4 @@ Môn này là môn học về thuyết trình, nhưng quyết định được A
 
 
 [hanu_profile]: https://hanu.vn/a/75998/15-Khoa-tieng-Anh-chuyen-nganh/
-[com-2241]: ../COM_2241/
+[com-2241]: ../COM-2241/
