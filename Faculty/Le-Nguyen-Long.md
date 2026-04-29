@@ -1,3 +1,87 @@
+# ThS. NCS. Lê Nguyên Long
+
+>"Perhaps the archives are incomplete."  
+— **Obi-Wan Kenobi**
+
+**ThS. NCS. Lê Nguyên Long** là giảng viên trường ĐH Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội.
+
+## Thông tin giảng viên
+- **Ngoại hình**: [Lê Nguyên Long][profile-image]
+- **Lý lịch**: [USSH - Lê Nguyên Long][academic-profile]
+- **Năm sinh**: 1980
+- **Giới tính**: Nam
+- **Học vị cao nhất**: Thạc sĩ
+- **Email**: nguyenlongvhpt@gmail.com (preferred); lenguyenlong@ussh.edu.vn
+- **Facebook**: [Facebook - Lê Nguyên Long][facebook-profile]
+
+## Lịch sử giảng dạy
+- `ENG-2205` ([World Literature before 1660][eng-2205]): Summer-2025, Spring-2026
+- `ENG-2206` ([World Literature after 1660][eng-2206]): Fall-2025
+
+## Đánh giá
+### ENG-2205 - World Literature before 1660
+Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tuần sau ngày thi Final tôi mới hoàn hồn và có thể tập trung để chấp bút cho guide cho môn này, trauma nhẹ, nhưng đôi khi là nhớ nhung?
+
+OK, ta bắt đầu luôn, giảng viên của môn này và môn ENG-2206 ở toàn miền Bắc mấy năm gần đây chính là 'nhà nghiên cứu' Lê Nguyên Long. Vâng, là 'nhà nghiên cứu'. Tại sao lại vậy nhỉ? Chuyện này phải nói là dai dẳng, bắt nguồn từ những kỳ trước của các anh chị khóa trên: điểm thấp, tạch, review như ... về Long Le rất nhiều. Vì vậy tôi mới đặt ra câu hỏi: 'Why is that? Why is he so bad?'.
+
+![image-16]
+
+Sau khi học hết course này, tôi cũng dần hiểu: có lẽ Long Le không phải là một 'Lecturer' như mọi người hằng mong, mà đúng hơn là một 'Researcher'. Một nhà nghiên cứu thì thường có những tính cách như **khắt khe, cầu toàn**, thậm chí hơi 'khó gần' vì quá tập trung vào công việc. Nó khác với giảng viên ở chỗ kỹ năng sư phạm (kiên nhẫn, truyền đạt) không phải là thế mạnh của họ.
+
+Yes, Long Le không thực sự giỏi về những kỹ năng ấy; ông muốn nghe mấy thứ mà sinh viên 'nghiên cứu' ra nhiều hơn. Cái khó lại nằm ở chỗ này: sinh viên khó có thể nghiên cứu ra được cái 'essence' mà Long Le mong muốn, nhất là trong bối cảnh thời gian gấp rút khiến cho sự chênh lệch lại càng rõ ràng. Ông không chia sẻ nhiều kiến thức ngay từ đầu, nên khó để nắm bắt được chính xác ông muốn nghe điều gì. Suy cho cùng, cái mình muốn trình bày và cái ông muốn nghe luôn tồn tại một cái 'gap'. Minh chứng thực tế cho việc này chính lại đánh vào điểm số của SV, làm tan hoang điểm số của anh chị em. Trước khi đến với phần khuyên nhủ, tôi sẽ đánh giá Long Le trước dựa trên 3 tiêu chí: Năng lực chuyên môn, Tính cách, Ảnh hưởng đến sinh viên.
+
+#### Năng lực chuyên môn
+
+Ông là người hướng đến tính liên ngành, không phải là 'giảng viên': ông không bó hẹp trong phạm vi văn học thuần túy, mà thường xuyên kết nối với các ngành khác như lịch sử, chính trị, dịch thuật học, và nghiên cứu văn hóa. *Dịch văn hóa để soi chiếu các hiện tượng văn học*.
+
+#### Tính cách
+
+Hồi trước thì ông hay cáu bẳn, khó chịu với bọn sinh viên, kiểu không tìm được tiếng nói chung giữa cái bài thuyết trình và ý niệm trong đầu ổng. Nhưng chắc dần dần ổng cũng nhận ra: 'bọn này cũng chỉ là SV thôi mà', nên thái độ cũng nhẹ nhàng hơn. Giờ bài nào ngu quá thì mới chửi sml.
+
+![image-15]
+
+#### Ảnh hưởng đến sinh viên
+
+Mục này là mục khó viết nhất vì ảnh hưởng thì vô vàn :)) Tâm lý, điểm số, giá trị thực tế...
+
+- **Tâm lý**: ảnh hưởng rõ nhất, do áp lực phải thuyết trình và làm bài tập, 'sự đọc' chuẩn chỉ nên cực kỳ mệt mỏi.
+
+- **Giá trị thực tế**: bàn bạc với ông anh tôi, cả hai đều thừa nhận rằng nếu course này được dạy trong context không đặt nặng điểm số thì thực sự nó vừa giải trí vừa hữu ích, đặc biệt trong bối cảnh *post-literate society* hiện nay.
+  
+  > 'cx phải nói thật là nếu k vì điểm số hay trượt môn thì làm việc với a long có phần dễ chịu'
+
+- **Điểm số**: tôi tin rằng nếu chuẩn bị bài, thuyết trình, làm việc cẩn thận thì điểm số chắc chắn sẽ là thứ đến sau cùng. Dù khả năng được A mong manh, nhưng mà chúng ta còn gì ngoài hy vọng chứ?
+
+#### Nhận định tổng quan
+
+| Grade | Số lượng (sum=80) | Tỉ lệ |
+| :---: | :---------------: | :---: |
+|   A   |         2         | 2.5%  |
+|   B   |        14         | 17.5% |
+|   C   |        30         | 37.5% |
+|   D   |        20         | 25.0% |
+|   F   |        14         | 17.5% |
+
+Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng đuối sức', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
+
+#### Tóm lược
+
+Phải luôn tỉnh táo, chú ý lời Long nói, nghe kĩ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kĩ tinh thần để chiến đấu. 
+
+Triển vọng cheat: có, nhưng tôi sẽ không đề cập, nếu muốn hãy liên lạc với tôi ở đâu đó.
+
+Anh Lê Quang Huy, TROYCS21A-K67 nói như này:
+
+> 'Đường thương đau đầy ải nhân gian ai chưa qua chưa phải là người !'
+
+Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
+
+#### Some notes for ENG-2205
+
+<details>
+<summary><b>Bấm để mở rộng nội dung</b></summary>
+<blockquote markdown="1">
+
 # Some notes for ENG-2205
 
 Tại sao tôi làm cái note này? Bởi vì môn này có một giảng viên khá quái dị. Vì vậy, tôi quan niệm rằng nếu có càng nhiều phát ngôn của 'nhà nghiên cứu' Lê Nguyên Long được ghi lại thì chúng ta sẽ phần nào hiểu rõ hơn về con người này, và cũng dễ tìm ra được 'Long mạch' hơn :)))
@@ -142,11 +226,8 @@ Tuy nhiên lão thêm vào cái *References* ở cuối, và *Literature Review*
 
 Đầu tiên là Intro, vào là dẫn vào 1 2 câu giới thiệu gì đó về tác giả, tác phẩm rồi sang Literature Review, sau đó từ mấy cái trên thì có thể phân tích ra một cái 'sự đọc' nào đó mà mình đọc ra. Cuối cùng chính là present Argument chính to nhất, mà sẽ bắt đầu bằng một câu mà Long Le cực mê đó là: 'In this essay, I argue that...', và một argument tốt theo Long Le là một argument gây tranh cãi mạnh, kiểu:
 
-<p align="center">
-  <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image14.png" alt="image14.png">
-  <br>
-  <em>Đừng dùng cái này không lại gặp họa :)))</em>
-</p>
+![image-14]  
+*Đừng dùng cái này không lại gặp họa :)))*
 
 Tóm lại là: lão cho một cái topic, đọc ra được gì từ topic đó thì sẽ ra được argument thôi. 
 
@@ -173,3 +254,49 @@ Ví dụ nhá :)))
 Ở layer nhìn vào, chúng ta naive nghĩ là cửa sổ tâm hồn rồi tình vc right? Xa xa hơn nghĩ được là nỗi buồn các thứ.
 
 Nhưng mà thứ ông Long thực sự muốn nghe là kiểu: người dân có thể là 'kẻ si tình', nhưng nếu không tỉnh táo, tình yêu ấy sẽ biến thành sự mù quáng, dẫn đến một đời dang dở cho cả cộng đồng :))) Yes, đó thực sự là những gì tôi đã học trong course này.
+
+</blockquote>
+</details>
+
+## Chỉ số và sức mạnh
+- **Điểm tổng kết trung bình:** `1.63/4` (GPA scale)
+  - Độ lệch chuẩn: 1.05 (GPA scale)
+  - Tỉ lệ được A: 2.5% (2/80)
+- **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- **Độ bám sát bài học của đề thi:** `?/10`
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+  > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+## Cơ chế trông thi
+### ENG-2205 - World Literature before 1660
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+### ENG-2206 - World Literature after 1660
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+## Tips
+### ENG-2205 - World Literature before 1660
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+### ENG-2206 - World Literature after 1660
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+## Trivia
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+
+[profile-image]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image16.jpg
+[academic-profile]: https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html
+[facebook-profile]: https://www.facebook.com/profile.php?id=594219048
+[eng-2205]: ../ENG-2205/
+[eng-2206]: ../ENG-2206/
+[image-16]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image16.jpg
+[image-15]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image15.jpg
+[image-14]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image14.png
+[contributing]: ../CONTRIBUTING.md

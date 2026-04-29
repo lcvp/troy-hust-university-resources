@@ -1,43 +1,24 @@
-Môn này được dạy bởi TS. [Trần Ngọc Khuê](https://fami.hust.edu.vn/giang-vien/?name=khue.tranngoc).
+# STAT-2210 - Introductory Statistics
 
----
+>"The numbers, Mason! What do they mean?"  
+— **Jason Hudson**, *Call of Duty: Black Ops*
 
-- Đánh giá thầy Khuê: Low S - High A tier. Trên lớp thầy dạy hơi chán, công thức nhiều, ví dụ ít, làm bài tập ít. NHƯNG chấm điểm cực kì xông và buff điểm cho sinh viên rất nhiều. Trong kì Fall 2025, có thể do điểm giữa kì lớp nát quá, thầy đã cho ae biết trươc cuối kì sẽ rơi vào các dạng bài nào. Tỉ lệ được A = 60% (39/65 kì Fall 2025).
+**STAT-2210** là một môn học 3 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
 
+## Đánh giá
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-## *Góc Lịch Sử*
-*Lưu ý: Nội dung dưới đây đã lỗi thời do thay đổi giảng viên hoặc một lí do nào đó khác, nhưng được giữ lại một phần nhằm bảo tồn một góc lịch sử của ngành và vì thông tin vẫn có thể sẽ hữu ích trong thời điểm hiện tại (do các giảng viên dưới vẫn đang dạy môn nào đó khác hoặc có thể sẽ dạy tiếp môn này trong tương lai.)*
+## Lịch sử giảng dạy
+- [TS. Trần Ngọc Khuê][tran-ngoc-khue]: `Fall-2025`
+- [TS. Nguyễn Văn Hạnh][nguyen-van-hanh]: `Fall-2025`
+- [PGS. TS. Phó Đức Tài][pho-duc-tai]: `Fall-2024`
 
-<details>
-<summary><b>Click để xem review cũ</b></summary>
-<blockquote markdown="1">
-
-**[UPDATE: NỘI DUNG ĐÃ STALE]**
-
-Môn này được dạy bởi PGS. TS. [Phó Đức Tài][link], trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
-
----
-
-- Môn này cơ bản dạy về XSTK pha thêm tí học máy, gv là người bên KHTN vì thế nên dạy khá là bay bổng, dạy cảm hứng, đam mê là nhiều, giống kiểu thi chuyên vào 10 trường chuyên KHTN 🙂, tự học là chính chứ nghe các thầy không biết đến đỉnh cao nào nữa...
-
-- Tuy nghe tự học có vẻ vất vả nhưng thực chất môn này không cần học gì cả, mà kể cả học thì cũng chưa chắc là điểm cao được A... 🙂 Why? Bởi vì do thầy trông thi khá dễ nên ai cũng chép được, vì thế nên thầy cũng chả chấm bài đấy làm gì, mà ông sẽ XSTK bằng cách... random điểm in range(80,90), vậy ai sẽ được A? Chính là những đứa mà trong vòng vài buổi đầu phát biểu cộng điểm (ông sẽ tick tạm 1 dấu vào sổ điểm), để làm gì? Phục vụ cho **chu trình** cho điểm.
-  
-  Chu trình cho điểm final như sau:
-  
-  1. Dùng hàm random để có điểm cho cả lớp.
-  
-  2. Những ai có tick thì cộng thêm vô điểm đã random -> lên A.
-  
-  3. Ai nghỉ học thì trừ bớt đi -> có C.
-  
-  4. Người bình thường ngồi ngoan chăm học -> B.
-  
-  5. Xong!! Thầy đã 'chế' xong điểm cho lớp mình. 😌
-  
-  Đương nhiên không ai khiếu nại vì lúc gửi điểm thì là mọi thứ đã lên hệ thống rồi, khỏi phải hỏi. Thực ra thầy cũng vì 'công việc' bận nên thầy làm **vội** sỏ ri các babe, hẹ hẹ, thầy gửi thẳng cho cô KA để các em đỡ làm phiền thầy phải không nè, trí khôn của ta đây!! 😌
-
-[link]: http://mim.hus.vnu.edu.vn/vi/canbo/taipd
+## Trivia
+- Môn này ở Troy Hust là MTH-210 chứ không phải STAT-2210.
 
 
-</blockquote>
-</details>
+[mth-1112]: ../MTH-1112/
+[tran-ngoc-khue]: ../Faculty/Tran-Ngoc-Khue.md
+[nguyen-van-hanh]: ../Faculty/Nguyen-Van-Hanh.md
+[pho-duc-tai]: ../Faculty/Pho-Duc-Tai.md
+[contributing]: ../CONTRIBUTING.md

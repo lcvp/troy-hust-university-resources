@@ -1,13 +1,19 @@
-Ở server Troy BK, có 2 thầy thường dạy GT1 và GT2:
+# MTH-1125 - Calculus I
 
-1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33)
+>"To infinity and beyond!"  
+— **Buzz Lightyear**, *Toy Story*
 
-2. Thầy [Hồ Minh Toàn](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=60)
+**MTH-1125** là một môn học 4 tín chỉ với điều kiện tiên quyết là [MTH-1114][mth-1114].
 
----
+## Đánh giá
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-- Nếu kì đó offer 2 options thì nên ưu tiên chọn thầy thứ 1 sẽ an toàn, tai qua nạn khỏi.
+## Lịch sử giảng dạy
+- [TS. Hồ Minh Toàn][ho-minh-toan]: `Spring-2026`
+- [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Spring-2025`
 
-- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài. 
 
-- Thi GK và CK là open-book, mang gì cũng được trừ phone. 🤣
+[vu-the-khoi]: ../Faculty/Vu-The-Khoi.md
+[ho-minh-toan]: ../Faculty/Ho-Minh-Toan.md
+[mth-1114]: ../MTH-1114/
+[contributing]: ../CONTRIBUTING.md
