@@ -1,15 +1,19 @@
-Ở server Troy BK, có 2 thầy thường dạy:
+# MTH-2215 - Applied Discrete Mathematics
 
-1. Thầy [Vũ Thế Khôi](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=33) ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)
+>"When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth."  
+— **Arthur Conan Doyle**, *The Case-Book of Sherlock Holmes*
 
-2. Thầy [Hồ Minh Toàn](http://math.ac.vn/vi/component/staff/?task=getProfile&staffID=60) ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)
+**MTH-2215** là một môn học 3 tín chỉ với điều kiện tiên quyết là [MTH-1112][mth-1112].
 
----
+## Đánh giá
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
-- Nếu kì đó offer 2 options thì nên ưu tiên chọn thầy thứ 1 sẽ an toàn, tai qua nạn khỏi.
+## Lịch sử giảng dạy
+- [PGS. TS Vũ Thế Khôi][vu-the-khoi]: `Spring-2026`
+- [TS. Hồ Minh Toàn][ho-minh-toan]: `Spring-2025`
 
-- Thi GK và CK là open-book, mang gì cũng được trừ phone. 🤣
 
-- Nếu chỉ có thầy thứ 2 thì nên học hành cẩn thận, sẽ có Mr. Cường (đệ của thầy) trông thi, đồ sát quét sạch, gần như không thể cheat, hoặc nhìn bài. Tuy nhiên trong cái rủi lại có cái không biết có phải may không 🙂, nhưng mà thầy Toàn khá là thương điểm số anh em, đỉnh điểm là khi thi GK lớp nát quá, anh đã đích thân đi trông thi cuối kì và để cho anh em chép thoải mái, khá vui!! 
-  
-  A GOOD MAN 👍👍👍
+[vu-the-khoi]: ../Faculty/Vu-The-Khoi.md
+[ho-minh-toan]: ../Faculty/Ho-Minh-Toan.md
+[mth-1112]: ../MTH-1112/
+[contributing]: ../CONTRIBUTING.md
