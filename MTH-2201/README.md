@@ -17,5 +17,5 @@ This can be said to be God's final warning to those who resist."
 
 [phan-xuan-thanh]: ../Faculty/Phan-Xuan-Thanh.md
 [mth-1112]: ../MTH-1112/
-[mth-1114]: ../MTH_1114/
+[mth-1114]: ../MTH-1114/
 [contributing]: ../CONTRIBUTING.md
