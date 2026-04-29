@@ -1,1 +1,18 @@
-Môn này là môn học về thuyết trình, nhưng quyết định được A hay không không phải là nhờ thuyết trình, mà phải vượt qua bài thi lí thuyết giấy (không tài liệu, phone), càng viết được nhiều (dĩ nhiên phải sát kiến thức trong slide), thì càng được điểm cao, các khóa gần đây chỉ có 1 con A là nhiều nhất.
+# COM-2241 - Fundamentals of Speech
+
+>"There are always three speeches, for every one you actually gave. The one you practiced, the one you gave, and the one you wish you gave"  
+— **Dale Carnegie**
+
+**COM-2241** là một môn học 3 tín chỉ. Không có điều kiện tiên quyết.
+
+## Đánh giá
+Môn này là môn học về thuyết trình.
+
+## Lịch sử giảng dạy
+- [ThS. Lê Thị Khánh Hòa][le-thi-khanh-hoa]: `Summer-2024`, `Summer-2025`
+
+## Trivia
+- Môn này ở Việt Nam là SPH-2241
+
+
+[le-thi-khanh-hoa]: ../Faculty/Le-Thi-Khanh-Hoa.md
