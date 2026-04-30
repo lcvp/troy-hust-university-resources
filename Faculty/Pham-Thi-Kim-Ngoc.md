@@ -15,6 +15,7 @@
 
 ## Lịch sử giảng dạy
 - `MGT-3300` ([Principles of Management][mgt-3300]): Spring-2024, Spring-2025
+- `MGT-4440` ([Developing and Leading Effective Teams][mgt-4440]): Spring-2026
 
 ## Đánh giá
 ### MGT-3300 - Principles of Management
@@ -40,8 +41,14 @@
 ### MGT-3300 - Principles of Management
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
+### MGT-4440 - Developing and Leading Effective Teams
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
 ## Tips
 ### MGT-3300 - Principles of Management
+> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+
+### MGT-4440 - Developing and Leading Effective Teams
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
@@ -51,4 +58,5 @@
 [profile-image]: https://sem.hust.edu.vn/wp-content/uploads/2023/12/Co-Kim-Ngoc-e1703562509986-768x1024.jpg
 [academic-profile]: https://sem.hust.edu.vn/lecturers/ts-pham-thi-kim-ngoc
 [mgt-3300]: ../MGT-3300/
+[mgt-4440]: ../MGT-4440/
 [contributing]: ../CONTRIBUTING.md
