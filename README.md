@@ -439,7 +439,7 @@
     <tr>
       <td align="center"><b>47</b></td>
       <td align="left"><a href="./MGT-4440/"><kbd>MGT&#8209;4440</kbd></a></td>
-      <td align="left">Developing and Leading Effective Teams <br><i>Sinh viên IT không cần đáp ứng Prerequisite (môn này là Free Electives)</i></td>
+      <td align="left">Developing and Leading Effective Teams <br><i>(Sinh viên IT không cần đáp ứng Prerequisite, môn này là Free Electives)</i></td>
       <td align="center">3</td>
       <td align="center">Lower-level Core, MGT 3300</td>
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
