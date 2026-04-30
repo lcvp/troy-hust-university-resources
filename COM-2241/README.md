@@ -12,7 +12,7 @@ Môn này là môn học về thuyết trình.
 - [ThS. Lê Thị Khánh Hòa][le-thi-khanh-hoa]: `Summer-2024`, `Summer-2025`
 
 ## Trivia
-- Môn này ở Việt Nam là SPH-2241
+- Môn này ở Việt Nam là SPH-241
 
 
 [le-thi-khanh-hoa]: ../Faculty/Le-Thi-Khanh-Hoa.md
