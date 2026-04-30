@@ -15,7 +15,7 @@
 - [PGS. TS. Cao Tuấn Dũng][cao-tuan-dung]: `Fall-2021`
 
 ## Trivia
-- Môn này ở Troy BK là CS-2255 chứ không phải CS-2250
+- Môn này ở Troy BK là CS-255 chứ không phải CS-2250
 
 
 [mr-robot]: https://en.wikipedia.org/wiki/Mr._Robot
