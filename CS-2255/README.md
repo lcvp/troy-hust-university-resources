@@ -14,7 +14,7 @@
 - [TS. Nguyễn Đình Văn][nguyen-dinh-van]: `Spring-2025`
 
 ## Trivia
-- Môn này ở Troy BK là CS-2256 chứ không phải CS-2255.
+- Môn này ở Troy BK là CS-256 chứ không phải CS-2255.
 
 
 [cs-2250]: ../CS-2250/

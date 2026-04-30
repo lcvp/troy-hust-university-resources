@@ -21,7 +21,7 @@
 - [PGS. TS. Phạm Thị Kim Ngọc][pham-thi-kim-ngoc]: `Spring-2024`, `Spring-2025`
 
 ## Trivia
-- Môn này ở Troy Hust là MGT-3371 chứ không phải MGT-3300.
+- Môn này ở Troy Hust là MGT-371 chứ không phải MGT-3300.
 
 
 [nguyen-thanh-huong]: ../Faculty/Nguyen-Thanh-Huong.md
