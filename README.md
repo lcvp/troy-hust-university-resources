@@ -438,6 +438,14 @@
     </tr>
     <tr>
       <td align="center"><b>47</b></td>
+      <td align="left"><kbd>MGT&#8209;4440</kbd></td>
+      <td align="left">Developing and Leading Effective Teams</td>
+      <td align="center">3</td>
+      <td align="center">Lower-level Core, MGT 3300</td>
+      <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>48</b></td>
       <td align="left"><a href="./IS-2241/"><kbd>IS&#8209;2241</kbd></a></td>
       <td align="left">Computer Concepts and Applications</td>
       <td align="center">3</td>
@@ -445,7 +453,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>48</b></td>
+      <td align="center"><b>49</b></td>
       <td align="left"><a href="./ENG-2206/"><kbd>ENG&#8209;2206</kbd></a></td>
       <td align="left">World Literature after 1660</td>
       <td align="center">3</td>
@@ -453,7 +461,7 @@
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
     </tr>
     <tr>
-      <td align="center"><b>49</b></td>
+      <td align="center"><b>50</b></td>
       <td align="left"><a href="./LAW-2221/"><kbd>LAW&#8209;2221</kbd></a></td>
       <td align="left">Legal Environment of Business</td>
       <td align="center">3</td>
@@ -461,7 +469,7 @@
       <td align="center"><img src="https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628" alt="SUCK"></td>
     </tr>
     <tr>
-      <td align="center"><b>50</b></td>
+      <td align="center"><b>51</b></td>
       <td align="left"><a href="./MKT-3300/"><kbd>MKT&#8209;3300</kbd></a></td>
       <td align="left">Principles of Marketing</td>
       <td align="center">3</td>
@@ -469,7 +477,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>51</b></td>
+      <td align="center"><b>52</b></td>
       <td align="left"><kbd>ACT&#8209;2291</kbd></td>
       <td align="left">Principles of Accounting I</td>
       <td align="center">3</td>
@@ -477,7 +485,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>52</b></td>
+      <td align="center"><b>53</b></td>
       <td align="left"><a href="./QM-2241/"><kbd>QM&#8209;2241</kbd></a></td>
       <td align="left">Business Statistics</td>
       <td align="center">3</td>
@@ -485,7 +493,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>53</b></td>
+      <td align="center"><b>54</b></td>
       <td align="left"><a href="./MTH-2201/"><kbd>MTH&#8209;2201</kbd></a></td>
       <td align="left">Calculus and its Applications</td>
       <td align="center">3</td>
@@ -493,7 +501,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><b>54</b></td>
+      <td align="center"><b>55</b></td>
       <td align="left"><a href="./SCI-2233/"><kbd>SCI/L&#8209;2233</kbd></a></td>
       <td align="left">Physical Science and Lab</td>
       <td align="center">4</td>
@@ -501,7 +509,7 @@
       <td align="center"><img src="https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50" alt="PEAK"></td>
     </tr>
     <tr>
-      <td align="center"><b>55</b></td>
+      <td align="center"><b>56</b></td>
       <td align="left"><a href="./BIO-1100/"><kbd>BIO/L&#8209;1100</kbd></a></td>
       <td align="left">Principles of Biology & Lab</td>
       <td align="center">4</td>
@@ -516,7 +524,7 @@
       <td></td>
     </tr>
     <tr>
-      <td align="center"><b>56</b></td>
+      <td align="center"><b>57</b></td>
       <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1111Q</kbd></a></td>
       <td align="left">Triết học Mác - Lênin</td>
       <td align="center">3</td>
@@ -524,7 +532,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>57</b></td>
+      <td align="center"><b>58</b></td>
       <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1121Q</kbd></a></td>
       <td align="left">Kinh tế chính trị Mác - Lênin</td>
       <td align="center">2</td>
@@ -532,7 +540,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>58</b></td>
+      <td align="center"><b>59</b></td>
       <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1131Q</kbd></a></td>
       <td align="left">Chủ nghĩa xã hội khoa học</td>
       <td align="center">2</td>
@@ -540,7 +548,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>59</b></td>
+      <td align="center"><b>60</b></td>
       <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1141Q</kbd></a></td>
       <td align="left">Lịch sử Đảng Cộng sản Việt Nam</td>
       <td align="center">2</td>
@@ -548,7 +556,7 @@
       <td align="center"><img src="https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107" alt="FAIR"></td>
     </tr>
     <tr>
-      <td align="center"><b>60</b></td>
+      <td align="center"><b>61</b></td>
       <td align="left"><a href="./Lý%20luận%20chính%20trị/"><kbd>SSH1151Q</kbd></a></td>
       <td align="left">Tư tưởng Hồ Chí Minh</td>
       <td align="center">2</td>
