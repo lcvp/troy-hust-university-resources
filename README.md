@@ -438,7 +438,7 @@
     </tr>
     <tr>
       <td align="center"><b>47</b></td>
-      <td align="left"><kbd>MGT&#8209;4440</kbd></td>
+      <td align="left"><a href="./MGT-4440/"><kbd>MGT&#8209;4440</kbd></a></td>
       <td align="left">Developing and Leading Effective Teams</td>
       <td align="center">3</td>
       <td align="center">Lower-level Core, MGT 3300</td>
