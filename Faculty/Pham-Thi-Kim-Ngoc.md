@@ -14,7 +14,7 @@
 - **Email**: ngoc.phamthikim@hust.edu.vn
 
 ## Lịch sử giảng dạy
-- `MGT-3300` ([Principles of Management][mgt-3300]): Spring-2024, Spring-2025
+- `MGT-3300` ([Principles of Management][mgt-3300]): Spring-2024, Spring-2025, Spring-2026
 - `MGT-4440` ([Developing and Leading Effective Teams][mgt-4440]): Spring-2026
 
 ## Đánh giá
