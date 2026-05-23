@@ -103,12 +103,12 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 - Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ yêu cầu hủy đăng ký nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
 - [**Some notes for ENG-2205**][some-notes-for-eng-2205-le-nguyen-long]
 
-
 ### ENG-2206 - World Literature after 1660
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia
-> *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
+- Trong kì Spring-2026, hiện tượng sinh viên tìm cách né lớp **ThS. NCS. Lê Nguyên Long** trở nên [khá rõ rệt][nguyen-kieu-anh-piece-of-mind], khi rất nhiều sinh viên đăng ký sang lớp của giảng viên khác bên VNU, làm lớp bên đó hết slot nhanh chóng. Trước tình hình đó, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] đã [yêu cầu các sinh viên][nka-facebook-course-dropping-request] hủy đăng ký những lớp này, đồng thời cố gắng trấn an họ bằng câu nói: “Bây giờ **thầy Long** thì coi trọng thái độ hơn trình độ”, nhằm thuyết phục sinh viên quay lại đăng ký lớp của Long Le.
+  - Tuy nhiên, sự "trấn an" này đi kèm với một lời [đe dọa][wikipedia-coercion]: nếu sinh viên tiếp tục tự ý đăng ký sang lớp hoặc trường khác mà không theo sự sắp xếp hay cho phép của giáo viên để né **Long Le**, thì ở các kì sau, đặc biệt là các môn chuyên ngành, [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể mời những chuyên gia còn khó tính hơn **Long Le** về giảng dạy.
 
 
 [profile-image]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image16.jpg
@@ -120,4 +120,7 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
 [image-15]: ../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image15.jpg
 [nguyen-kieu-anh]: ./Nguyen-Kieu-Anh.md
 [some-notes-for-eng-2205-le-nguyen-long]: ../ENG-2205/References/Some-Notes-For-ENG-2205-Le-Nguyen-Long.md
+[wikipedia-coercion]: https://en.wikipedia.org/wiki/Coercion
+[nka-facebook-course-dropping-request]: https://i.imgur.com/gVQfWKL.png
+[nguyen-kieu-anh-piece-of-mind]: https://i.imgur.com/DafS7tz.png
 [contributing]: ../CONTRIBUTING.md
