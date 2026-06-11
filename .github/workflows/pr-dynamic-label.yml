@@ -6,6 +6,8 @@ on:
 
 jobs:
     label:
+        # Skips the workflow if the PR is from a fork. Bandage fix for the meantime until PRs labeling is properly implemented for forks.
+        if: ${{ !github.event.pull_request.head.repo.fork }}
         runs-on: ubuntu-latest
         permissions:
             issues: write
