@@ -34,7 +34,7 @@
 
 ## Đánh giá
 
-<!-- Đánh giá. Đây này và phần tiếp theo sẽ là những phần chính mà sinh viên nhìn vào để quyết định xem có nên học giảng viên hay không. Phần này sẽ có đánh giá chung và đánh giá cách dạy từng môn học. Đánh giá chung sẽ đánh giá các phẩm chất chung, áp dụng được và nhất quán với mọi môn học của giảng viên, và đánh giá cách dạy từng môn học thì đánh giá các phẩm chất chỉ áp dụng trong môn học đó. Lưu ý, mục này nên xóa hết tất cả các phần không có đánh giá nếu có tồn tại 1 hoặc nhiều hơn 1 đánh giá, và nếu không có đánh giá nào, thì giữ lại 1 mục với lời kêu gọi đóng góp để người đọc biết họ có thể đóng góp được cho repo. -->
+<!-- Đánh giá. Phần này và phần tiếp theo sẽ là những phần chính mà sinh viên nhìn vào để quyết định xem có nên học giảng viên hay không. Phần này sẽ có đánh giá chung và đánh giá cách dạy từng môn học. Đánh giá chung sẽ đánh giá các phẩm chất chung, áp dụng được và nhất quán với mọi môn học của giảng viên, và đánh giá cách dạy từng môn học thì đánh giá các phẩm chất chỉ áp dụng trong môn học đó. Lưu ý: mục này nên xóa hết tất cả các phần không có đánh giá nếu có tồn tại 1 hoặc nhiều hơn 1 đánh giá, và nếu không có đánh giá nào, thì giữ lại 1 mục với lời kêu gọi đóng góp để người đọc biết họ có thể đóng góp được cho repo. -->
 
 ### Chung
 
@@ -46,7 +46,7 @@
 
 ## Chỉ số và sức mạnh
 
-<!-- Chỉ số và sức manh. Điền chỉ số phù hợp nhất theo thang điểm dưới, mô tả qua lý do vì sao chỉ số đó là hợp lý. -->
+<!-- Chỉ số và sức mạnh. Điền chỉ số phù hợp nhất theo thang điểm dưới, mô tả qua lý do vì sao chỉ số đó là hợp lý. -->
 
 - **Điểm tổng kết trung bình gần nhất:** `?/100`
   - Độ lệch chuẩn: TBA
@@ -102,7 +102,7 @@
 
 ## Tips
 
-<!-- Tips. Phần này thì điền mẹo, thủ thuật, ... Phần chung điền những thứ áp dụng được cho tất cả mọi môn, còn cơ chế của từng môn thì điền những thứ chỉ áp dụng được cho môn đó. Lưu ý: phần này thì không nên xóa mục nào cả, mà những mục trống sẽ để lời kêu gọi đóng góp. -->
+<!-- Tips. Phần này thì điền mẹo, thủ thuật, ... Phần chung điền những thứ áp dụng được cho tất cả mọi môn, còn tips của từng môn thì điền những thứ chỉ áp dụng được cho môn đó. Lưu ý: phần này thì không nên xóa mục nào cả, mà những mục trống sẽ để lời kêu gọi đóng góp. -->
 
 ### Chung
 
