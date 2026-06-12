@@ -6,6 +6,7 @@
 **ThS. NCS. Lê Nguyên Long** là giảng viên trường ĐH Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội.
 
 ## Thông tin giảng viên
+
 - **Ngoại hình**: [Lê Nguyên Long][profile-image]
 - **Lý lịch**: [USSH - Lê Nguyên Long][academic-profile]
 - **Năm sinh**: 1980
@@ -15,11 +16,14 @@
 - **Facebook**: [Facebook - Lê Nguyên Long][facebook-profile]
 
 ## Lịch sử giảng dạy
+
 - `ENG-2205` ([World Literature before 1660][eng-2205]): Summer-2025, Spring-2026
 - `ENG-2206` ([World Literature after 1660][eng-2206]): Fall-2025
 
 ## Đánh giá
+
 ### ENG-2205 - World Literature before 1660
+
 Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tuần sau ngày thi Final tôi mới hoàn hồn và có thể tập trung để chấp bút cho guide cho môn này, trauma nhẹ, nhưng đôi khi là nhớ nhung?
 
 OK, ta bắt đầu luôn, giảng viên của môn này và môn ENG-2206 ở toàn miền Bắc mấy năm gần đây chính là 'nhà nghiên cứu' Lê Nguyên Long. Vâng, là 'nhà nghiên cứu'. Tại sao lại vậy nhỉ? Chuyện này phải nói là dai dẳng, bắt nguồn từ những kỳ trước của các anh chị khóa trên: điểm thấp, tạch, review như ... về Long Le rất nhiều. Vì vậy tôi mới đặt ra câu hỏi: 'Why is that? Why is he so bad?'.
@@ -81,29 +85,39 @@ Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
   - Độ lệch chuẩn: 10.48
   - Tỉ lệ được A: 2.5% (2/80)
 - **Độ minh bạch và công bằng của tiêu chí chấm điểm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ bám sát bài học của đề thi:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Độ hợp lí, cân bằng của khối lượng bài vở và sức khỏe tinh thần:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Khả năng truyền đạt kiến thức và chuyên môn sư phạm:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 - **Tác phong, tính cách và mức độ hỗ trợ sinh viên:** `?/10`
+  
   > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Cơ chế trông thi
+
 ### ENG-2205 - World Literature before 1660
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ### ENG-2206 - World Literature after 1660
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Tips
+
 ### ENG-2205 - World Literature before 1660
 - Như mọi trò chơi mà bạn biết kẻ chơi luôn là người thua cuộc, cách duy nhất để chiến thắng là không tham gia ngay từ đầu. Hãy tìm mọi cách để tránh đăng ký lớp của Long Le. Có thể cân nhắc đăng ký lớp của giảng viên khác bên VNU, nhưng lưu ý là [CV. Nguyễn Kiều Anh][nguyen-kieu-anh] có thể sẽ yêu cầu hủy đăng ký nếu lớp bên đó hết slot quá nhanh. Nếu như đã muộn, hi vọng những tips ở dưới có thể giúp bạn được phần nào.
 - [**Some notes for ENG-2205**][some-notes-for-eng-2205-le-nguyen-long]
 
 ### ENG-2206 - World Literature after 1660
+
 > *Hiện tại chưa có dữ liệu cho phần này. Bạn có thể giúp cộng đồng Troy-IT bằng cách [đóng góp][contributing] thông tin qua Pull Request. 🙏🙏🙏*
 
 ## Trivia

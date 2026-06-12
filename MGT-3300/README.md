@@ -6,7 +6,7 @@
 **MGT-3300** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
-- Để bắt đầu nói về môn này thì tôi xin phép trích một [lời nhận xét](https://www.notion.so/2023-restart-my-life-20s-version-454174907b31443a88fde52607437ee7) từ nhật ký của một người anh thân thiết về môn học này, người mà đã đặt nền móng cho cái repo này: 
+- Để bắt đầu nói về môn này thì tôi xin phép trích một [lời nhận xét][notion-blog-link] từ nhật ký của một người anh thân thiết về môn học này, người mà đã đặt nền móng cho cái repo này: 
   
   > "Cuối cùng, và chả còn gì để nói, là môn MGT. Tôi nghĩ đến một cái môn học dạy nhau kĩ năng quản lý, thì độp phát, hàng tá những kiến thức giời ơi đất hỡi. Đùa, những câu hỏi chán ngắt, những tình huống cứng đến ngờ nghệch, sự thiếu tập trung, hời hợt và cả những sự khó chịu đan xen, vâng, chúng đều là thuốc độc khiến tôi mất ngay ấn tượng với cái môn này rồi. Hết cứu bạn ạ."
 
@@ -18,7 +18,7 @@
 
 ## Lịch sử giảng dạy
 - [TS. Nguyễn Thanh Hương][nguyen-thanh-huong]: `Spring-2025`, `Spring-2026`
-- [PGS. TS. Phạm Thị Kim Ngọc][pham-thi-kim-ngoc]: `Spring-2024`, `Spring-2025`
+- [PGS. TS. Phạm Thị Kim Ngọc][pham-thi-kim-ngoc]: `Spring-2024`, `Spring-2025`, `Spring-2026`
 
 ## Trivia
 - Môn này ở Troy Hust là MGT-371 chứ không phải MGT-3300.
@@ -26,3 +26,4 @@
 
 [nguyen-thanh-huong]: ../Faculty/Nguyen-Thanh-Huong.md
 [pham-thi-kim-ngoc]: ../Faculty/Pham-Thi-Kim-Ngoc.md
+[notion-blog-link]: https://www.notion.so/2023-restart-my-life-20s-version-454174907b31443a88fde52607437ee7
