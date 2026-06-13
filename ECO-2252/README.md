@@ -6,9 +6,11 @@
 **ECO-2252** là một môn học 3 tín chỉ không có điều kiện tiên quyết.
 
 ## Đánh giá
+
 - Tham khảo [ECO-2251][eco-2251-danh-gia].
 
 ## Lịch sử giảng dạy
+
 - [ThS. Nguyễn Tài Vượng][nguyen-tai-vuong]: `Fall-2023`, `Fall-2025`
 - [PGS. Nguyễn Thị Thu Thủy][nguyen-thi-thu-thuy]: `Fall-2025`
 
